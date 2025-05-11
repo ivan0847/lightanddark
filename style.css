@@ -1,0 +1,55 @@
+h1 {
+  color: navajowhite;
+  text-align: center;
+  margin-right: 75px;
+  margin-left: 75px;
+  border: 2px solid blue;
+  border-radius: 100px;
+}
+
+body {
+  background-color: whitesmoke;
+  font-size: 20px;
+}
+
+p::first-letter {
+  font-size: 40px;
+  color: blue;
+}
+
+img {
+  border: 5px sliod rgb(0, 0, 128);
+}
+
+header p {
+  color:orange;
+  border: 2px solid red;
+  border-radius: 20px;
+}
+
+main {
+  text-align: center;
+  color: navy;
+}
+
+header {
+  background: green;
+}
+
+main {
+  background: url(https://i.postimg.cc/52YXgnCM/Chat-GPT-Image-11-2025-14-51-04.png) no-repeat center center / cover;
+}
+
+.dark {
+  color: darkblue;
+  text-align: center;
+}
+
+.light {
+  text-align: center;
+  color: orange;
+}
+
+main {
+  color: white
+}
